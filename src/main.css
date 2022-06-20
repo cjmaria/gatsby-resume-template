@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+
+@layer base {
+    html {
+        font-family: "Ubuntu", system-ui, sans-serif;
+    }
+}
+
+.btn {
+    @apply text-xs font-bold py-1 px-2 rounded;
+}
+
+.btn-secondary {
+    @apply bg-secondary text-white;
+}
+.btn-secondary:hover {
+    @apply bg-secondary
+}
+
+body {
+    background: linear-gradient(90deg, #efefef 17px, transparent 1%) center, linear-gradient(#efefef 17px, transparent 1%) center, #9e9fac;
+    background-size: 18px 18px;
+}
+
+.contact-icon {
+    @apply fill-current w-4 h-4 mr-4 text-secondary;
+}
+
+.contact-link {
+    @apply text-lg;
+}
+
+.contact-link:hover {
+    @apply text-secondary;
+}
+
+.section-header {
+    @apply text-primary text-2xl border-l-4 border-primary pl-3 font-bold tracking-wide;
+}
+
+.item-header {
+    @apply text-xl font-bold leading-relaxed text-neutral-700;
+}
+
+.item-sub {
+    @apply text-neutral-700 tracking-wide text-base;
+}
+
+.item-desc {
+    @apply text-neutral-700 text-base;
+}
+
+.tag {
+    @apply px-2 py-1 mr-2 mb-2 bg-secondary text-white inline-block rounded text-sm;
+    font-family: "Azeret Mono";
+}
+
+.footer-social-link {
+    @apply text-secondary mr-4;
+}
+
+.footer-social-link:hover {
+    @apply text-secondary;
+}
+
+.footer-social-icon {
+    @apply h-6 fill-current;
+}
+
+@tailwind utilities;

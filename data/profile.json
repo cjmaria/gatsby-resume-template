@@ -1,0 +1,245 @@
+{
+  "contact": {
+    "email": "contact@rida-rahman.com",
+    
+    "location": "Knoxville, TN"
+  },
+  "experienceGroups": [
+    {
+      "type": "Research Experience",
+      "experiences": [
+        {
+          "role": "High-Energy-Density Physics Intern",
+          "company": "Lawrence Livermore National Laboratory",
+          "description": "Developed software to using modern computational approaches to improve uncertainty quantification of phenomenological optical-model potentials.",
+          "start": "06/2021",
+          "end": "08/2021",
+          "bullets": [
+            "Integrated the compound nucleus contributions to the Koning-Delaroche Uncertainty Quantification (KDUQ) code within the Livermore optical model potential framework",
+            "Used LLNL’s high performance computing framework",
+            "Validated KDUQ implementation against established models and data sets"
+          ]
+        },
+        {
+          "role": "Laser and Experimental Systems Engineering Intern",
+          "company": "Lawrence Livermore National Laboratory",
+          "description": "Responsible for designing an experiment to characterize a pulse-dilation photomultiplier tube (PD-PMT) and developing methods to analyze experimental data. This improves the accuracy of fusion burn history data in inertial confinement fusion experiments at the National Ignition Facility.",
+          "start": "06/2020",
+          "end": "08/2020",
+          "bullets": [
+            "Devised various optical table orientations and assessed components and materials according to engineering requirements including beam intensity, beam diameter, and streak camera resolution",
+            "Wrote procedures document detailing experimental procedures, diagrams, and reproducible steps",
+            "Used Python libraries including pandas and SciPy to eliminate excess data and background measurements, applying signal processing and data analysis techniques",
+            "Implemented peak finding functions in python using calculus concepts",
+            "Developed techniques to separate merged signal peaks from PD-PMT calibration measurements"
+          ]
+        },
+        {
+          "role": "Undergraduate Researcher",
+          "company": "Nuclear Plant Reliability and Information Lab",
+          "description": "Responsible for designing an experiment to characterize a pulse-dilation photomultiplier tube (PD-PMT) and developing methods to analyze experimental data. This improves the accuracy of fusion burn history data in inertial confinement fusion experiments at the National Ignition Facility.",
+          "start": "06/2020",
+          "end": "08/2020",
+          "bullets": [
+            "Developed unit tests in C++ and Microsoft Visual Studio",
+            "Became familiar with microprocessor architectures and instruction sets used in programmable logic controllers",
+            "Wrote documentation demonstrating the expected behavior of machine instructions",
+            "Used software engineering tools such as Git and CppUnit for version control & testing"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Work Experience",
+      "experiences": [
+        {
+          "role": "Engineering Project Management Intern",
+          "company": "Westinghouse Electric Company",
+          "description": "",
+          "start": "09/2020",
+          "end": "12/2019",
+          "bullets": [
+            "Responsible for implementing short-term projects at the largest uranium fuel fabrication facility in the U.S.",
+            "Developed more effective communications processes and procedures between project management and short-term project teams",
+            "Led spring 2021 outage planning meetings for all engineering, maintenance, and installation teams"
+          ]
+        },
+        {
+          "role": "Student Engineer",
+          "company": "U.S. Nuclear Regulatory Commission",
+          "description": "",
+          "start": "05/2019",
+          "end": "08/2019",
+          "bullets": [
+            "Assisted with plant inspections, drafted inspection reports, engaged in technical reviews",
+            "Audited previous inspection reports and developed strategic recommendations",
+            "Traveled to various nuclear power plants in the northeast to shadow resident inspectors"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Leadership & Service",
+      "experiences": [
+        {
+          "role": "Executive Board Member - Class of 2021 Representative",
+          "company": "Rensselaer Union",
+          "description": "",
+          "start": "04/2018",
+          "end": "09/2020",
+          "bullets": [
+            "Assisted in the allocation of the Union’s $8.9mm annual budget to over 200 clubs, 52 sports programs, and a 105,000 sq. ft. student union center and fitness facility",
+            "Mentored incoming board members in budgeting requirements and policies",
+            "Assisted multicultural clubs with fundraising activities and event planning"
+          ]
+        },
+        {
+          "role": "Philanthropy Committee Member",
+          "company": "Pi Beta Phi",
+          "description": "",
+          "start": "11/2018",
+          "end": "06/2020",
+          "bullets": [
+            "Coordinated philanthropy events, including weekly tutoring trips to the local Boys & Girls Club",
+            "Assisted with fundraising events for Pi Beta Phi’s literacy programs"
+          ]
+        },
+        {
+          "role": "Mentor",
+          "company": "Women @ Rensselaer Mentor Program",
+          "description": "",
+          "start": "09/2018",
+          "end": "05/2019",
+          "bullets": [
+            "Built a mentor relationship with a first-year engineering student",
+            "Advised on course registration, extracurricular groups, and professional development"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming Languages",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Python"
+        },
+        {
+          "name": "C++"
+        },
+        {
+          "name": "MATLAB"
+        },
+        {
+          "name": "LaTeX"
+        },
+        
+        {
+          "name": "R"
+        }
+      
+      ]
+    },
+    {
+      "title": "Data Analytics",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "NumPy"
+        },
+        {
+          "name": "SciPy"
+        },
+        {
+          "name": "Pandas"
+        },
+        {
+          "name": "Matplotlib"
+        }
+      ]
+    },
+    {
+      "title": "Tools",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Git"
+        },
+        {
+          "name": "Linux"
+        },
+        {
+          "name": "Bash"
+        },
+        {
+          "name": "Jupyter Notebook"
+        }
+      ]
+    },
+    {
+      "title": "Software",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "MCNP"
+        },
+        {
+          "name": "Fusion 360"
+        },
+        {
+          "name": "SolidWorks"
+        }
+      ]
+    }
+  ],
+  "summary": "Hi, I'm Rida! I am currently a graduate student studying nuclear engineering. I recently received my bachelor's degree after completing several internships at Lawrence Livermore National Laboratory, Westinghouse Electric Company, and the U.S. Nuclear Regulatory Commission. As a nuclear engineer, I enjoy working on ways to improve uncertainty quantification in nuclear reaction models.",
+  "education": [
+    {
+      "institution": "University of Tennessee-Knoxville",
+      "degree": "Ph.D. Nuclear Engineering",
+      "start": "2022",
+      "end": "Present"
+    },
+    {
+      "institution": "Rensselaer Polytechnic Institute",
+      "degree": "B.S. Nuclear Engineering",
+      "start": "2017",
+      "end": "2021"
+    }
+  ],
+  "social": [
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/rida-rahman/"
+    },
+    {
+      "service": "github",
+      "url": "https://github.com/ridarahman"
+    },
+    {
+      "service": "mail",
+      "url": "contact@rida-rahman.com"
+    }
+  ],
+  "role": "Graduate Student",
+  "fullname": "Rida Rahman",
+  "awardGroup": [
+    {
+      "name": "Nuclear Design Excellence Award",
+      "organization": "Rensselaer Department of Mechanical, Aerospace, and Nuclear Engineering",
+      "years": ["2021"]
+    },
+    {
+      "name": "Nuclear Excellence Scholarship",
+      "organization": "Nuclear Regulatory Commission",
+      "years": ["2018, 2019, 2021"]
+    },
+    {
+      "name": "Rensselaer Medal",
+      "organization": "Rensselaer Polytechnic Institute",
+      "years": ["2017 - 2021"]
+    }
+  ]
+}
