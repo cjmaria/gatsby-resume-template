@@ -25,6 +25,7 @@ Gatsby Starter Resume CMS is a free starter template with  Netlify CMS as headle
 
 ### Create a Gatsby site
 
+Note: Requires Node v16
 Use the Gatsby CLI to create a new site, specifying the resume starter.
 
 ```shell
